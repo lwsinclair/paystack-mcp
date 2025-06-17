@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kohasummons-paystack-mcp-badge.png)](https://mseep.ai/app/kohasummons-paystack-mcp)
+
 # Paystack MCP Server
 
 The Paystack [Model Context Protocol](https://modelcontextprotocol.com/) (MCP) server allows AI agents to interact with Paystack through standardized MCP clients via tool calling. This protocol supports various tools to interact with different Paystack services.
